@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The unjust uncle: or, The perjur'd maid of Essex's unfortunate destiny: who having made a solemn contract with a young man of that same county, was perswaded by her uncle to forsake him and marry another: for which, as a just example of her inconstancy, she dy'd in their presence so soon as she broke her vows. To the tune of The languishing swain. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682-1700?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06399</idno>
+            <idno type="STC">Wing U82</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.39.k.6[47]</idno>
+            <idno type="EEBO-CITATION">99887427</idno>
+            <idno type="PROQUEST">ocm99887427</idno>
+            <idno type="VID">182133</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182133)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:1[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The unjust uncle: or, The perjur'd maid of Essex's unfortunate destiny: who having made a solemn contract with a young man of that same county, was perswaded by her uncle to forsake him and marry another: for which, as a just example of her inconstancy, she dy'd in their presence so soon as she broke her vows. To the tune of The languishing swain. Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J[osiah]. Blare, at the Looking-Glass on London-Bridge.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1682-1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher's name, date and place of publication from Wing.</note>
+                  <note>Verse: "You youthful damsels far and near ..."</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:182133:1" rendition="simple:additions"/>
+            <head>The Vnjuſt Vncle: OR, The Perjur'd Maid of <hi>Eſſex</hi>'s Unfortunate Deſtiny: Who having made a ſolemn Contract with a young Man of that ſame County, was per<g ref="char:EOLhyphen"/>ſwaded by her Uncle to forſake him and marry another: For which, as a juſt Exam<g ref="char:EOLhyphen"/>ple of her Inconſtancy, ſhe dy'd in their Preſence ſo ſoon as ſhe broke her Vows.</head>
+            <opener>To the Tune of <hi>The Languiſhing Swain.</hi>
+            </opener>
+            <p>Licenſed according to Order.</p>
+            <lg n="1">
+               <head>I.</head>
+               <l>YOu youthful Damſels far and near</l>
+               <l>Who ſhall this mournful Ditty hear,</l>
+               <l>Take care how you prove falſe in Love,</l>
+               <l>For there's a Righteous God above,</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Who knows the ſecret Vows you make;</l>
+               <l>Or when you do ſuch Contract break,</l>
+               <l>Strange Judgments follows out of Hand,</l>
+               <l>As by theſe Lines you'll underſtand.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>In <hi>Eſſex</hi> liv'd a Beauty bright,</l>
+               <l>Her Parents joy and Hearts delight,</l>
+               <l>Who oftentimes had courted been;</l>
+               <l>For many came her Love to win.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Amongſt the many Suitors came</l>
+               <l>A Youth of worthy Birth and Fame:</l>
+               <l>Fair charming Saint, he often cry'd,</l>
+               <l>I love none in the World beſide.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>The youthful Damſel did reply,</l>
+               <l>There's thoſe that has more Wealth than I,</l>
+               <l>Which you may have full well I know;</l>
+               <l>And therefore to ſome other go.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Said he, My dear, I do declare</l>
+               <l>Might I enjoy a Lady fair</l>
+               <l>Of many Thouſand Pounds a Year,</l>
+               <l>I'd ſlight it all for thee, my Dear,</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Whoſe pleaſant Charms I do adore;</l>
+               <l>Grant me thy Love, I ask no more,</l>
+               <l>For that is better worth than Gold:</l>
+               <l>Let me one pleaſant Smile behold.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>At length the Damſel did comply</l>
+               <l>Unto the Bonds of Loyalty;</l>
+               <l>And many Vows betwixt them paſt,</l>
+               <l>To love ſo long as Life ſhould laſt.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>A piece of Gold he likewiſe broke:</l>
+               <l>Which done, theſe very Words he ſpoke,</l>
+               <l>I'll love thee to my Dying-Day;</l>
+               <l>Then deareſt be not drawn away.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>If I do break my Vows, ſaid ſhe,</l>
+               <l>Let me a ſad Example be;</l>
+               <l>And not the leaſt of Mercy find,</l>
+               <l>If ever once I change my Mind.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>This Promiſe made, was ſoon forgot,</l>
+               <l>Her wealthy Uncle he would not</l>
+               <l>Yield ſhe ſhould wed her loyal Love;</l>
+               <l>But break her Vows, and Perjur'd prove.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>Said he, I have a Match in ſtore,</l>
+               <l>Worth Forty Pounds a Year, and more;</l>
+               <l>And you alone muſt be his Bride:</l>
+               <l>I dare not break my Vows, ſhe cry'd.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>At length he took her to a Fair,</l>
+               <l>Likewiſe her new-found Lover, where</l>
+               <l>They did on ſumptuous Dainties feaſt;</l>
+               <l>Then then her Sorrows ſoon encreas'd.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>He would not let her be at reſt,</l>
+               <l>But did moſt ſolemnly proteſt,</l>
+               <l>That if ſhe did not change her Mind,</l>
+               <l>She ſhould of him no Uncle find.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>Poor Heart! through Fear ſhe gave conſent</l>
+               <l>To be his Bride: This done, ſhe went</l>
+               <l>Unto the Window of the Room,</l>
+               <l>Where they beheld her diſmal Doom.</l>
+            </lg>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>For looking forth into the Fair,</l>
+               <l>She ſaw her former Lover there;</l>
+               <l>Which made her Eyes like Fountains run:</l>
+               <l>She ſighing ſaid, What have I done!</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>She cry'd, as ſhe her ſighs did fetch,</l>
+               <l>I am a falſe forſworn Wretch;</l>
+               <l>Nothing but ſad Deſpair I ſee:</l>
+               <l>Oh Uncle, you have ruin'd me!</l>
+            </lg>
+            <lg n="18">
+               <head>XVIII.</head>
+               <l>And as ſhe made this ſad Complaint,</l>
+               <l>Her Spirits then began to faint:</l>
+               <l>Then falling dead upon the Floor,</l>
+               <l>She never ſtir'd nor moved more.</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>When ſhe her Promiſe made at firſt,</l>
+               <l>She wiſh'd, if e'er ſhe prov'd unjuſt,</l>
+               <l>That God would ſome Example ſhow</l>
+               <l>On her, for falſly doing ſo.</l>
+            </lg>
+            <lg n="20">
+               <head>XX.</head>
+               <l>According to her Wiſh ſhe found,</l>
+               <l>As falling dead ſtreight to the Ground.</l>
+               <l>Lovers by her fair Warning take,</l>
+               <l>And don't your Vows and Contracts break.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> J. Blare, <hi>at the</hi> Looking-Glaſs <hi>on</hi> London-Bridge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
